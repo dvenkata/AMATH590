@@ -1,4 +1,4 @@
-AMATH 590: Course on using ML to learn the structure of fluid flow
+AMATH 590 (Special Topics): Deep Learning in Fluid Mechanics
 
 Topics Studied:
 1. Reconstruction of Fluid Flow from limited measurements (sensors)
