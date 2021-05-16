@@ -6,7 +6,6 @@ Topics Studied:
 
 Project:
 I use data from Johns Hopkins Turbulence database, and attempt three types of analysis:
-i) Flow Reconstruction
-ii) Time-stepping/ Flowmaps
-iii) Model sub-grid scales
-
+1. Flow Reconstruction
+2. Time-stepping/ Flowmaps
+3. Model sub-grid scales
